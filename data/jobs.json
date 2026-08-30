@@ -1,0 +1,53 @@
+[
+    {
+        "job_title": "Junior AI/ML Engineer",
+        "company": "Tech Solutions",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "SQL",
+            "PyTorch",
+            "Git"
+        ],
+        "description": "Work on machine learning models, data preprocessing and AI applications."
+    },
+    {
+        "job_title": "Machine Learning Intern",
+        "company": "AI Innovations",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "Pandas",
+            "NumPy",
+            "SQL"
+        ],
+        "description": "Assist the ML team in developing and evaluating machine learning models."
+    },
+    {
+        "job_title": "Generative AI Engineer",
+        "company": "Future AI Labs",
+        "required_skills": [
+            "Python",
+            "Generative AI",
+            "LLMs",
+            "RAG",
+            "Transformers",
+            "Docker"
+        ],
+        "description": "Develop LLM-powered applications and retrieval augmented generation systems."
+    },
+    {
+        "job_title": "Data Scientist",
+        "company": "DataWorks",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "Statistics",
+            "Pandas",
+            "Data Visualization"
+        ],
+        "description": "Build predictive models and analyze business datasets."
+    }
+]
